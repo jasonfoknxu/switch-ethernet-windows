@@ -1,6 +1,6 @@
 # switch-ethernet (PowerShell)
 # - Developer: NXU (GitHub: @jasonfoknxu)
-# - https://github.com/jasonfoknxu/
+# - https://github.com/jasonfoknxu/switch-ethernet-windows
 # - Switch network with changing the Metric (Lower = Higher Priority)
 
 ### ---------- ###
